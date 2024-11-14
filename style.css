@@ -1,0 +1,35 @@
+@charset "utf-8" ;
+    div {
+        width: calc(100% -50px);
+        transform: translate(100px, 30px) rotate(45deg);
+        margin: 200px 200px 200px 200px;
+
+    }
+    /* p{
+        color: rgb(124, 62, 204);
+        background-color: antiquewhite;
+        font-weight: bold;
+        font-size: 80px;
+        line-height: 1;
+        background-image: url("");
+        
+    }
+    .parnet p {
+        color: red;
+    }
+
+  
+    .abc  > ul + p {
+        color: red;
+    }
+       h1.headline {
+        color: red;
+       }
+       .abc > a:hovor {
+        color: red;
+       }
+   */
+       
+       
+   
+   
